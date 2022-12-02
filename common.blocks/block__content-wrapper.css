@@ -1,0 +1,9 @@
+.block__content-wrapper {
+	max-width: 1088px;
+	max-height: 583px;
+	font-size: 22px;
+	color: rgb(45, 45, 45);
+	font-weight: 400;
+	line-height: 1.5;
+	text-align: left;
+}
