@@ -1,0 +1,8 @@
+.block__content-wrapper_bold-line:first-line {
+	font-size: 22px;
+	color: rgb(45, 45, 45);
+	font-weight: 700;
+	line-height: 1.5;
+	text-align: left;
+	white-space: break-spaces;
+}
